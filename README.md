@@ -1,4 +1,4 @@
-# medical
+# demassi
 
 ## Project setup
 ```
